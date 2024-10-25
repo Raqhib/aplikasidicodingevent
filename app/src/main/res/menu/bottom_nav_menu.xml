@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+    <item
+        android:id="@+id/nav_upcoming"
+        android:icon="@drawable/icon_upcoming"
+        android:title="@string/up_coming"
+        />
+    <item
+        android:id="@+id/nav_finished"
+        android:icon="@drawable/icon_finished"
+        android:title="@string/finished"
+        />
+
+    <item
+        android:id="@+id/nav_favorite"
+        android:icon="@drawable/baseline_favorite_24"
+        android:title="@string/favorite"
+        />
+
+</menu>
